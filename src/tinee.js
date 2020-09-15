@@ -1,7 +1,7 @@
-tinee = require('./end');
 fetch = require('node-fetch');
 
 class tinee {
+tinee = require('./end');
 
     /**
      * @param {String} img endpoint to search
