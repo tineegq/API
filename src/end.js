@@ -1,5 +1,5 @@
 module.exports = {
-    base: "https://tinee.gq/api/",
+    base: "https://tinee.gq/api/nsfw/",
     endpoints: {
         ass: "https://tinee.gq/api/nsfw/ass/",
         boobs: "https://tinee.gq/api/nsfw/boobs/",
