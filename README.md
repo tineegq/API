@@ -5,8 +5,8 @@ npm i tineegq
 ```
 how to use
 ```js
-const weeb = require('tineegq');
-const weebs = new weeb()
+const tinees = require('tineegq');
+const tinee = new tinees()
 
 tinee.nsfw("thighs").then(img => {
     console.log(img)
