@@ -9,7 +9,7 @@ tinee = require('./end');
      */
 
     async nsfw(img) {
-        return fetch(`${tinee.base}${img}`)
+        return fetch(`${tinee.base}/${img}`)
         .then(res => res.json())
         .then(json =>  {
             if(json.url == undefined) throw Error(`[TINEEGQ]: ${img} is not a valid endpoint!`)
