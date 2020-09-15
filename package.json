@@ -1,0 +1,32 @@
+{
+  "name": "tineegq",
+  "version": "1.0.0",
+  "description": "An api wrapper for tineegq for Discord JavaScript Bots",
+  "main": "tinee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weebs",
+    "api",
+    "nsfw",
+    "tinee",
+    "neko",
+    "discord",
+    "discord.js"
+  ],
+  "author": "Neko Jade#3375, Xanathero#1461",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tineegq/API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tineegq/API/issues"
+  },
+  "homepage": "https://github.com/tineegq/API#readme"
+}
