@@ -34,6 +34,6 @@ tinee.nsfw("thighs").then(img => {
 - hug
 - pat
 
-For an up to date list on endpoints visit [tinee.gq](https://tineegq.ga/api/info.html)
+For an up to date list on endpoints visit [tinee.gq](https://tinee.gq/api/info.html)
 
 For support join our [discord](https://discord.gg/invite/bSNzEkq)
