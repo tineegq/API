@@ -3,14 +3,21 @@ api wrapper for tineegq
 ```bash
 npm i tineegq
 ```
-how to use
+how to use"
 ```js
 const tinees = require('tineegq');
 const tinee = new tinees()
 
+// NSFW Endpoints
 tinee.nsfw("thighs").then(img => {
     console.log(img)
 })
+
+// SFW Endpoints
+tinee.sfw("pat").then(img => {
+    console.log(img)
+})
+
 ```
 
 # endpoints

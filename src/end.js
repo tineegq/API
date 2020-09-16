@@ -1,6 +1,6 @@
 module.exports = {
     base: "https://tinee.gq/api/nsfw/",
-    baseSafe: "https://tinee.gq/api/sfw",
+    baseSafe: "https://tinee.gq/api/sfw/",
     endpoints: {
         ass: "https://tinee.gq/api/nsfw/ass/",
         boobs: "https://tinee.gq/api/nsfw/boobs/",
