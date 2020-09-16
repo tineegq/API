@@ -1,5 +1,6 @@
 module.exports = {
     base: "https://tinee.gq/api/nsfw/",
+    baseSafe: "https://tinee.gq/api/sfw",
     endpoints: {
         ass: "https://tinee.gq/api/nsfw/ass/",
         boobs: "https://tinee.gq/api/nsfw/boobs/",
@@ -9,6 +10,8 @@ module.exports = {
 	hentai: "https://tinee.gq/api/nsfw/hentai/",
 	kink: "https://tinee.gq/api/nsfw/kink/",
 	thighs: "https://tinee.gq/api/nsfw/thighs/",
-	yuri: "https://tinee.gq/api/nsfw/yuri/"
+	yuri: "https://tinee.gq/api/nsfw/yuri/",
+	kiss: "https://tinee.gq/api/sfw/kiss/",
+	pat: "https://tinee.gq/api/sfw/pat/"
     }
 }

@@ -1,6 +1,6 @@
 {
   "name": "tineegq",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An api wrapper for tineegq for Discord JavaScript Bots",
   "main": "tinee.js",
   "scripts": {

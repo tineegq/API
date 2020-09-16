@@ -16,6 +16,15 @@ class tinee {
             return json.url
         })
     }
+
+    async sfw(img) {
+        return fetch(`${tinees.baseSafe}${img}/`)
+        .then(res => res.json())
+        .then(json =>  {
+            if(json.url == undefined) throw Error(`[TINEEGQ]: ${img} is not a valid endpoint!`)
+            return json.url
+        })
+    }
 }
 
 module.exports = tinee
