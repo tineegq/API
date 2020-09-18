@@ -12,6 +12,8 @@ module.exports = {
 	thighs: "https://tinee.gq/api/nsfw/thighs/",
 	yuri: "https://tinee.gq/api/nsfw/yuri/",
 	kiss: "https://tinee.gq/api/sfw/kiss/",
-	pat: "https://tinee.gq/api/sfw/pat/"
+	pat: "https://tinee.gq/api/sfw/pat/",
+	x: "https://tinee.gq/api/nsfw/x/"
+
     }
 }
